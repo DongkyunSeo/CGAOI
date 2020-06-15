@@ -1,0 +1,12 @@
+[ipl] ---------------------------------------------------------------------------------------------------------------
+
+Image Processing Library
+Copyright (C) 2016 LG Electronics / Production engineering Reaserch Institute
+All rights reserved 
+
+No one can use, copy and distribute this software without permission of LG Electronics.
+
+Contributing Author:
+   seonghoon.kim@lge.com
+   ilmok.kim@lge.com
+
